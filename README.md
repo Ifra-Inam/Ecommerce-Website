@@ -1,1 +1,1 @@
-Through self-learning using various YouTube tutorials, I built an e-commerce website with React for the front end and Express with SQL for the back end. While the project is currently functional, I haven’t added styling yet—but I plan to enhance the design soon.
+Through self-learning using various YouTube tutorials, I built an e-commerce website with React for the front end and Express with SQL for the back end. While the project is currently functional, I haven’t added styling yet, but I plan to enhance the design soon.
